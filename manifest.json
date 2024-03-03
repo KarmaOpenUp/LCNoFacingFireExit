@@ -1,0 +1,9 @@
+{
+    "name": "NoFacingFireExit",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/KarmaOpenUp/LCNoFacingFireExit",
+    "description": "Face the building when entering a Fire Exit.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
